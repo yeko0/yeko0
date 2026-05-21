@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Yeko 👋
+######yanmigl ordaz
 
-<!--
-**yeko0/yeko0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer in training based in Dresden, Germany.
 
-Here are some ideas to get you started:
+I'm currently completing an Umschulung as **Fachinformatiker für Anwendungsentwicklung(Software Development)**, with a focus on backend development using Java, Spring Boot and PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Java backend
+- Spring Boot REST APIs
+- PostgreSQL and JDBC
+- Authentication and authorization
+- Clean layered architecture: Controller, Service, Repository, DTOs
+- Git and GitHub workflow
+
+## 🧩 Featured Project
+
+### [Login API v1](https://github.com/yeko0/Login-API-v1)
+
+A Java Spring Boot REST API with:
+
+- User registration and login
+- JWT authentication
+- BCrypt PIN hashing
+- PostgreSQL persistence with JDBC
+- USER / ADMIN role authorization
+- Admin-only and account-owner endpoints
+- Current session endpoint
+
+## 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- PostgreSQL
+- JDBC
+- Maven
+- REST APIs
+- JWT
+- BCrypt
+- Git & GitHub
+
+## 🌍 Languages
+
+- Spanish: Native
+- English: C1
+- German: B2
+
+## 🎯 Current Goal
+
+I'm looking for a **Java Backend Praktikum in Dresden starting from 04.01.2027** as part of my Umschulung.
+
+## 📌 Next Learning Goals
+
+- Spring Security
+- JdbcTemplate
+- JPA / Hibernate
+- Testing
+- Docker
+- Deployment
