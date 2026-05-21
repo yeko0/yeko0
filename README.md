@@ -1,5 +1,5 @@
 # Hi, I'm Yeko 👋
-######yanmigl ordaz
+yanmigl ordaz
 
 Java Backend Developer in training based in Dresden, Germany.
 
