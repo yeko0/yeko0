@@ -48,7 +48,7 @@ A Java Spring Boot REST API with:
 
 ## 🎯 Current Goal
 
-I'm looking for a **Java Backend Praktikum in Dresden starting from 04.01.2027** as part of my Umschulung.
+I'm looking for a **Java Backend Praktikum in Dresden starting from 04.01.2027 with a duration of 9month** as part of my Umschulung.
 
 ## 📌 Next Learning Goals
 
