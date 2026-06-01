@@ -3,7 +3,7 @@ yanmigl ordaz
 
 Java Backend Developer in training based in Dresden, Germany.
 
-I'm currently completing an Umschulung as **Fachinformatiker für Anwendungsentwicklung(Software Development)**, with a focus on backend development using Java, Spring Boot and PostgreSQL.
+I'm currently completing an Umschulung as **Fachinformatiker für Anwendungsentwicklung (Software Development)**, with a focus on backend development using **Java, Spring Boot, PostgreSQL and JWT**. I am also building basic frontend projects with **HTML, JavaScript, Tailwind CSS and Vite**.
 
 ## 🚀 Current Focus
 
