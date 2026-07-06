@@ -2,7 +2,7 @@
 
 I'm a **Fachinformatiker Anwendungsentwicklung Umschüler** based in Dresden, Germany.
 
-I'm currently focused on **fullstack software development** with **Java Spring Boot**, **Spring Data JPA / Hibernate**, **JWT authentication**, **Javascript**, **React**, **Vite**, **Tailwind CSS**, and SQL databases such as **PostgreSQL**, **MariaDB**, and **MySQL**.
+I'm currently focused on **software development** with **Java Spring Boot**, **Spring Data JPA / Hibernate**, **JWT authentication**, **Javascript**, **React**, **Vite**, **Tailwind CSS**, and SQL databases such as **PostgreSQL**, **MariaDB**, and **MySQL**.
 
 My main goal is to build practical projects that help me understand the complete software development flow: backend architecture, REST APIs, authentication, authorization, database persistence, frontend state management, API communication, validation, UI feedback, and Git/GitHub workflows.
 
@@ -102,15 +102,6 @@ This project documents my progress from backend fundamentals to a more complete 
 ## 🎯 Current Goal
 
 I'm looking for a **9-month Pflichtpraktikum / software development internship** in Dresden, starting from **04.01.2027**, as part of my "Umschulung zum" **Fachinformatiker für Anwendungsentwicklung**.
-
-I'm especially interested in positions where I can work with:
-
-* Java
-* Spring Boot
-* REST APIs
-* SQL databases
-* React
-* Fullstack development
 
 ---
 
