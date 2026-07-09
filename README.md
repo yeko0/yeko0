@@ -18,7 +18,7 @@ My main goal is to build practical projects that help me understand the complete
 * React frontend development with Vite
 * Tailwind CSS for modern UI design
 * Git, GitHub branches, commits and project documentation
-* Preparing for a fullstack software development internship
+* Preparing for a software development internship
 
 ---
 
